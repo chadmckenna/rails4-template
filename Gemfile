@@ -42,6 +42,7 @@ group :doc do
 end
 
 group :test, :development do
+  gem 'pry-rails'
   gem "rspec", "~> 2.13.0"
 end
 
