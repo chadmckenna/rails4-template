@@ -33,6 +33,9 @@ gem 'jbuilder', '~> 1.4.2'
 # Devise for authentication
 gem "devise"
 
+# HAML!
+gem 'haml'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
